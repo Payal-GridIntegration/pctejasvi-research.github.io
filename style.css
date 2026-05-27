@@ -173,6 +173,16 @@ section h2{
 
 }
 
+section p{
+
+  line-height:1.8;
+
+  font-size:1.1rem;
+
+  color:#d7e9ff;
+
+}
+
 .cards{
 
   display:grid;
@@ -202,5 +212,62 @@ section h2{
 
   box-shadow:
     0 0 20px rgba(0,217,255,0.4);
+
+}
+
+/* ABOUT SECTION */
+
+#about{
+
+  background:#081221;
+
+  border-top:
+  1px solid rgba(0,217,255,0.1);
+
+}
+
+/* RESEARCH SECTION */
+
+#research{
+
+  background:#0b1830;
+
+  border-top:
+  1px solid rgba(0,217,255,0.1);
+
+}
+
+/* EDUCATION SECTION */
+
+#education{
+
+  background:#101d38;
+
+  border-top:
+  1px solid rgba(0,217,255,0.1);
+
+}
+
+/* PROJECTS SECTION */
+
+#projects{
+
+  background:#0d223f;
+
+  border-top:
+  1px solid rgba(0,217,255,0.1);
+
+}
+
+/* CONTACT SECTION */
+
+#contact{
+
+  background:#07111f;
+
+  border-top:
+  1px solid rgba(0,217,255,0.1);
+
+  text-align:center;
 
 }
